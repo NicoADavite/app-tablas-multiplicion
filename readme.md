@@ -2,7 +2,7 @@
 
 Aplicación de escritorio/consola para crear archivos.txt con tablas de multiplicación
 
-Comando para correr la aplicación
+Comando para correr la aplicación\
 node app
 
 argumentos de comando:
