@@ -1,0 +1,18 @@
+{
+  "name": "03_bases-de-node",
+  "version": "0.0.1",
+  "description": "Aplicación para crear archivos de texto con la tablas de multiplicación",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "node app"
+  },
+  "author": "Nico Davite",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.4.0"
+  },
+  "dependencies": {
+    "yargs": "^17.5.0"
+  }
+}
